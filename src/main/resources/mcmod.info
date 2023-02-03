@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "diseasesmod",
+        "name": "DiseasesMod",
+        "description": "",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["panpole"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
